@@ -1,0 +1,23 @@
+Analyze employee survey responses or public queries to extract key concerns and visualize them (e.g., word cloud). 
+
+ 
+
+Steps: 
+
+Load the data.  (employee_feedback_data.csv) 
+
+Clean and Prepare the Text 
+
+Generate Word Cloud Visualization 
+
+Sentiment Analysis (Positive / Negative / Neutral) 
+
+This uses VADER (Valence Aware Dictionary for sentiment Reasoning) — a built-in sentiment analyzer in nltk.  
+
+It will add sentiment scores and sentiment label for the feedbacks 
+
+ 
+
+Find Top Trending Words (Words apprearing the most) 
+
+Proportion of positive vs negative feedback (in a pie chart) 
