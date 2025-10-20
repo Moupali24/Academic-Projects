@@ -1,0 +1,19 @@
+Media Coverage Tracker (News Classification)  
+
+Scrape daily news articles about coal, energy, or CCL, and classify them as “Positive PR”, “Negative PR”, or “Neutral”. Why useful: PR can track their brand’s media coverage daily. Beginner-friendly tools: Python + Scikit-learn (Naive Bayes classifier). 
+
+ 
+
+Steps: 
+
+Created a dummy dataset 
+
+Vectorize text 
+
+Detect Patterns using Naïve Bayes Classifier 
+
+Train using Training data 
+
+Test on new articles 
+
+Tried enhancing using SVM. 
